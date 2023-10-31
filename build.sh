@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 PRJ=""
 IMAGE_TAG="dotnet.app"
 VER="1.0.0"
